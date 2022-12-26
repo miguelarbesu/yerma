@@ -8,7 +8,7 @@ From [wikipedia](https://en.wikipedia.org/wiki/Yerma):
 **Act 2, scene 1**:
 It is three years later. Five laundresses (*lavanderas*) gossip about a woman who still has no children, who has been looking at another man, and whose husband has brought in his sisters to keep an eye on her. We know they mean Yerma. The laundresses sing about husbands, lovemaking, and babies. 
 
-![Lavanderas][lavanderas_yerma.png]
+![Lavanderas](lavanderas_yerma.png)
 
 ## Translation
 
